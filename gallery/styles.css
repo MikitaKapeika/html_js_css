@@ -1,0 +1,44 @@
+.gallery-field{
+    background-image: url(./wallpaper.jpg);
+    background-size: 100%; 
+    padding-left: 150px;
+    padding-right: 130px; 
+    margin: auto;
+    width: 800px;
+    height: 600px;   
+    padding-bottom:20px ;
+    overflow: Auto ;
+}
+
+.gallery-block{
+    width: 110px;
+    height: 170px;
+    background-color: rgb(247, 229, 205);
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid rgb(245, 198, 110);
+    float: left;
+  
+}
+
+.gallery-image img{
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    margin-bottom: 5px;
+    max-width: 100px;
+    max-height: 80px;
+    border: 2px solid rgb(46, 43, 43);
+    border-radius: 10px;
+}
+.gallery-text{
+    max-width: 100px;
+    max-height: 85px;
+    margin: auto;
+    overflow-x: hidden;
+    overflow-Y: Auto ;
+    font-style: normal;
+    font-size: 10px;
+    margin-bottom: 5px;
+}

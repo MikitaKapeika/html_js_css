@@ -1,0 +1,22 @@
+.work-area{
+    height:380px;
+    width:750px;
+    background-color: rgb(230, 225, 225);
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    display:flex;
+}
+.picture-area{
+    width: 470px;
+    border-right: 4px solid rgb(231, 150, 44);
+    padding-right: 10px;
+    text-align: right;
+}
+.description-area{
+    margin-left: 15px;
+}
+h1{
+font-style: normal;
+font-weight: 100;
+}
